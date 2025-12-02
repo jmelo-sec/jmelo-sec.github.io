@@ -1,10 +1,9 @@
 ---
 layout: home
-title: "Inicio"
+title: "Home"
 author_profile: true
 ---
 
-Bienvenido a mi portfolio profesional orientado a Blue Team, análisis de tráfico,
-hardening y seguridad en sistemas cloud.
+Welcome to my cybersecurity portfolio, where I document my work, labs and technical research focused on Blue Team practices, traffic analysis, system hardening and cloud security.
 
-Aquí encontrarás mis proyectos, laboratorios y documentación técnica.
+Here you will find my projects, hands-on experiments and security notes.
