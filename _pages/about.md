@@ -5,8 +5,8 @@ permalink: /about/
 author_profile: true
 ---
 
-Soy estudiante de Ingeniería Informática y entusiasta de la ciberseguridad.
-Mi enfoque actual está en seguridad defensiva, análisis de tráfico, hardening de sistemas,
-y tecnologías cloud aplicadas a entornos seguros.
+Soy estudiante de Ingeniería Informática con un interés especial en ciberseguridad, especialmente en áreas de Blue Team, análisis de tráfico, hardening de sistemas y seguridad cloud.
 
-Mi objetivo profesional para los próximos años: trabajar como Security Engineer o SOC Analyst en Suiza.
+Me gusta trabajar desde un enfoque práctico: entender qué ocurre en los sistemas, cómo se comporta la red y cómo se detecta actividad anómala. Estoy construyendo este portfolio para documentar mis proyectos, experimentos y laboratorios de seguridad.
+
+Mi objetivo profesional es orientarme hacia roles de **Security Engineer** o **SOC Analyst**, preferentemente en entornos internacionales como Suiza.
