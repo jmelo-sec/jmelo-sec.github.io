@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Proyectos de Ciberseguridad"
+title: "Projects"
 permalink: /projects/
 ---
 
-Aquí recopilo mis proyectos, laboratorios y análisis relacionados con ciberseguridad.
+Here you can find a selection of my cybersecurity-related projects and labs.
 
-- **Análisis RTMP/HLS con Wireshark** — Captura y análisis de tráfico multimedia.
-- **Hardening de servidor Linux** — Configuración segura, CIS Benchmarks.
-- **Detección de escaneos con Suricata** — IDS, reglas y análisis de alertas.
-- **Auditoría HTTP de aplicación PHP** — Cabeceras, cookies, OWASP Top 10.
+- [RTMP/HLS Traffic Analysis with Wireshark](/projects/rtmp-hls-wireshark/) – Network traffic analysis, streaming protocols, security implications of unencrypted media delivery.
+- Linux Server Hardening (coming soon) – Baseline security configuration, SSH hardening, basic CIS controls and log review.
+- Detecting Port Scans with Suricata (planned) – IDS rules, alert analysis and attacker behaviour.
+
