@@ -1,7 +1,7 @@
-title: "Juan Melo – Ciberseguridad"
-email: "tuemail@example.com"
+title: "Juan Melo – Cybersecurity"
+email: "juanmt@uoc.edu"
 description: >-
-  Portfolio profesional orientado a Blue Team, análisis de tráfico, hardening y seguridad cloud.
+  Cybersecurity portfolio focused on Blue Team practices, traffic analysis, system hardening and cloud security.
 
 url: "https://jmelo-sec.github.io"
 baseurl: ""
@@ -19,9 +19,9 @@ plugins:
 author:
   name: "Juan Melo"
   avatar: "/assets/img/profile.jpg"
-  bio: "Ingeniero Informático · Ciberseguridad · Blue Team · Cloud Security"
+  bio: "Computer Engineering · Cybersecurity · Blue Team · Cloud Security"
   github: jmelo-sec
-  location: "España · Suiza (futuro)"
+  location: "Spain · Switzerland (future)"
 
 defaults:
   - scope:
@@ -35,9 +35,9 @@ include:
   - _pages
 
 nav:
-  - title: "Inicio"
+  - title: "Home"
     url: /
-  - title: "Sobre mí"
+  - title: "About"
     url: /about/
-  - title: "Proyectos"
+  - title: "Projects"
     url: /projects/
