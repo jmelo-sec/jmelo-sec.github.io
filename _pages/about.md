@@ -5,8 +5,9 @@ permalink: /about/
 author_profile: true
 ---
 
-I am a Computer Engineering student with a strong interest in cybersecurity, particularly in Blue Team operations, network traffic analysis, system hardening and cloud security.
+I am a Computer Engineering student with a strong interest in cybersecurity, especially in Blue Team operations, network traffic analysis, system hardening and cloud security.
 
-My approach to learning is hands-on: understanding how systems behave, how networks communicate and how to detect anomalies through logs and traffic inspection. This portfolio serves as a place to document my technical work, labs and security-focused experiments.
+My learning approach is very hands-on: I like to see what is really happening in the network and on the systems, read the logs, capture the packets and then translate that into security conclusions.
 
-My career goal is to transition into roles such as **Security Engineer** or **SOC Analyst**, ideally within international environments such as Switzerland.
+This portfolio is where I document my labs, experiments and security projects.  
+My medium-term goal is to move into roles such as **Security Engineer** or **SOC Analyst**, ideally in an international environment such as Switzerland.
