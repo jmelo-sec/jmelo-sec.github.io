@@ -1,0 +1,28 @@
+title: "Juan Melo – Ciberseguridad"
+email: tu_email@loquequieras.com
+description: >-
+  Portfolio profesional orientado a Blue Team, análisis de tráfico, hardening y seguridad cloud.
+
+baseurl: "" 
+url: "https://jmelo-sec.github.io"
+
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+author:
+  name: "Juan Melo"
+  avatar: "/assets/img/profile.jpg"
+  bio: "Ingeniería Informática · Ciberseguridad · Blue Team · Cloud Security"
+  location: "España · Suiza (futuro)"
+  github: jmelo-sec
+
+paginate: 5
+
+include:
+  - _pages
