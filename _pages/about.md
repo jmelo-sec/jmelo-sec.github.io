@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Sobre mí"
+title: "About Me"
 permalink: /about/
 author_profile: true
 ---
 
-Soy estudiante de Ingeniería Informática con un interés especial en ciberseguridad, especialmente en áreas de Blue Team, análisis de tráfico, hardening de sistemas y seguridad cloud.
+I am a Computer Engineering student with a strong interest in cybersecurity, particularly in Blue Team operations, network traffic analysis, system hardening and cloud security.
 
-Me gusta trabajar desde un enfoque práctico: entender qué ocurre en los sistemas, cómo se comporta la red y cómo se detecta actividad anómala. Estoy construyendo este portfolio para documentar mis proyectos, experimentos y laboratorios de seguridad.
+My approach to learning is hands-on: understanding how systems behave, how networks communicate and how to detect anomalies through logs and traffic inspection. This portfolio serves as a place to document my technical work, labs and security-focused experiments.
 
-Mi objetivo profesional es orientarme hacia roles de **Security Engineer** o **SOC Analyst**, preferentemente en entornos internacionales como Suiza.
+My career goal is to transition into roles such as **Security Engineer** or **SOC Analyst**, ideally within international environments such as Switzerland.
