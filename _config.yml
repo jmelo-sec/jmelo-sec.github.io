@@ -33,3 +33,11 @@ defaults:
 
 include:
   - _pages
+
+nav:
+  - title: "Inicio"
+    url: /
+  - title: "Sobre mí"
+    url: /about/
+  - title: "Proyectos"
+    url: /projects/
