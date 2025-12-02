@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Proyectos"
+title: "Proyectos de Ciberseguridad"
 permalink: /projects/
 ---
 
-Aquí encontrarás una selección de mis proyectos técnicos orientados a ciberseguridad.
+Aquí recopilo mis proyectos, laboratorios y análisis relacionados con ciberseguridad.
 
-- **Análisis RTMP/HLS con Wireshark** (Blue Team · Redes)
-- **Hardening de servidor Linux** (Seguridad de sistemas)
-- **Detección de ataques Nmap con Suricata** (IDS/IPS)
-- **Auditoría HTTP de aplicación PHP** (OWASP)
+- **Análisis RTMP/HLS con Wireshark** — Captura y análisis de tráfico multimedia.
+- **Hardening de servidor Linux** — Configuración segura, CIS Benchmarks.
+- **Detección de escaneos con Suricata** — IDS, reglas y análisis de alertas.
+- **Auditoría HTTP de aplicación PHP** — Cabeceras, cookies, OWASP Top 10.
