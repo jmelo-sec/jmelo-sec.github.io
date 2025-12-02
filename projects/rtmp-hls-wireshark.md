@@ -36,6 +36,7 @@ To focus only on the streaming traffic, I used the following display filter:
 ```text
 http && tcp.port == 8088
 ```
+
 ---
 
 ## Methodology
